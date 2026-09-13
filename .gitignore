@@ -1,6 +1,5 @@
-# Ignore compiled macOS binary
-edge-checker
-edge-checker/
-
 # Ignore VS Code settings
 .vscode/
+
+# Ignore compiled macOS binary
+build/
